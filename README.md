@@ -16,16 +16,18 @@ Netflix is one of the most popular media and video streaming platforms with over
 * **Listed_in** – the category where the tv and movie show is listed
 * **Description** – description of the tv and movie show
 
-For my analysis I used **Tableau Public** (a free platform to explore, create and publicly share data visualizations online). More about Tableau Public can be found [Here](https://www.tableau.com/products/public)
+For my analysis I used **Tableau Public** (a free platform to explore, create and publicly share data visualizations online). More about Tableau Public can be found [Here](https://www.tableau.com/products/public).
+
+Links to the datset used can be found on [GitHub](https://github.com/prasertcbs/basic-dataset/blob/master/netflix_titles.csv) and on [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
 ## Data Transformation
 The data was cleaned, so there was no need for data transformation. The only transformation done was filtering the null value in date_added.
 Business Insights
 I looked at the following:
-* **Total Movie and TV Shows by Year and Country**
-* **Top 10 TV Shows**
-* **Movie and TV Shows by type, and rating**
-* **Created filters on Movie and TV Shows description, date added, duration, genre (listed_in), rating, and release_year.**
+* Total Movie and TV Shows by Year and Country
+* Top 10 TV Shows
+* Movie and TV Shows by type, and rating
+* Created filters on Movie and TV Shows description, date added, duration, genre (listed_in), rating, and release_year.
 
 In summary, I looked at how users interact with the platform and their preferences regarding tv shows and movie shows. Also, countries with the highest interaction…United State.
 
