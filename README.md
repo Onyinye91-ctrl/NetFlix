@@ -22,8 +22,7 @@ Links to the datset used can be found on [GitHub](https://github.com/prasertcbs/
 
 ## Data Transformation
 The data was cleaned, so there was no need for data transformation. The only transformation done was filtering the null value in date_added.
-Business Insights
-I looked at the following:
+The bussiness insights i looked out for are below:
 * Total Movie and TV Shows by Year and Country
 * Top 10 TV Shows
 * Movie and TV Shows by type, and rating
