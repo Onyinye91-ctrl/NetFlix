@@ -1,6 +1,6 @@
-### NetFlix
+# NetFlix Dashborad
 
-# Data Description
+### Data Description
 Netflix is one of the most popular media and video streaming platforms with over **8000 movie and tv shows** available in their platform, also with over **800m subscribers**. This project aims to provide insight into Netflix dataset from **2008 – 2020**. The dataset contains **6234 rows** and **12 columns**.
 
 * **Show_id** – unique id for the show
@@ -20,7 +20,7 @@ For my analysis I used **Tableau Public** (a free platform to explore, create an
 
 Links to the datset used can be found on [GitHub](https://github.com/prasertcbs/basic-dataset/blob/master/netflix_titles.csv) and on [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
 
-## Data Transformation
+### Data Transformation
 The data was cleaned, so there was no need for data transformation. The only transformation done was filtering the null value in date_added.
 The bussiness insights i looked out for are below:
 * Total Movie and TV Shows by Year and Country
