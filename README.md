@@ -26,7 +26,7 @@ The bussiness insights i looked out for are below:
 * Total Movie and TV Shows by Year and Country
 * Top 10 TV Shows
 * Movie and TV Shows by type, and rating
-* Created filters on Movie and TV Shows description, date added, duration, genre (listed_in), rating, and release_year.
+* Created filters on Movie and TV Shows description, date added, duration, genre (listed_in), rating, and release_year. The filters is only filtering(active) to Title, Movie, Duration, Release Year, Date Added, Description, Rating and Genre filter.
 
 In summary, I looked at how users interact with the platform and their preferences regarding tv shows and movie shows. Also, countries with the highest interaction…United State.
 
